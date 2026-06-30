@@ -1,4 +1,5 @@
 # NumberBaseballGame
+```python
 Java Number Baseball Game
 
 package project;
@@ -219,6 +220,7 @@ public class NumberBaseballGame {
                 System.out.println("오류 : " + e.getMessage());
                 sc.nextLine();
             }
+```
         }
     }
 }
